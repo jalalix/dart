@@ -7,7 +7,7 @@ Jalali (Persian / Shamsi) calendar on top of a millisecond Unix timestamp. Pure 
 
 ```yaml
 dependencies:
-    jalalix: ^0.1.0
+    jalalix: ^0.2.0
 ```
 
 ```dart
@@ -27,7 +27,7 @@ JalaliX.parseJalali('1403/12/07').toISODate(); // 2025-02-25
 
 ```yaml
 dependencies:
-    jalalix: ^0.1.0
+    jalalix: ^0.2.0
 ```
 
 ```dart
